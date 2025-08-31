@@ -1,6 +1,6 @@
 🎬 Netflix Genre Analytics Dashboard
 
-An interactive Power BI dashboard analyzing Netflix’s movie genres, vote counts, and popularity trends based on historical release data (1902–1987).
+An interactive Power BI dashboard analyzing Netflix’s movie genres, vote counts, and popularity trends based on historical release data (1902–2024).
 
 🔍 Key Insights
 
